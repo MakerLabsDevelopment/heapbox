@@ -1,3 +1,5 @@
+<h1>ML - IE6 fix</h1>
+
 <h1>HeapBox - jQuery &lt;selectbox&gt; (not only) replacement</h1>
 HeapBox is plugin for jQuery that replace native HTML selectboxes in your webpages. HeapBox supports themes, events, callbacks, ajax and much more. See more at <a href="http://www.bartos.me/heapbox" title="HeapBox">www.bartos.me/heapbox</a>.
 
